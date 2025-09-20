@@ -2,7 +2,7 @@
 
 ## DNS client
 
-* Project 1 received a score of **17/20**:
+* [Project 1](project1) received a score of **17/20**:
     * Envois des requêtes : 3/3
     * Lecture des réponses : 4/5.5
     * Format des résultats : 1.5/1.5
@@ -15,7 +15,7 @@
 
 ## DNS server
 
-* Project 2 received a score of **14/20**:
+* [Project 2](project2) received a score of **14/20**:
     * High level architecture: 2/2
     * Code style: 2/2
     * Output format: 2/2
